@@ -66,7 +66,7 @@ pipeline {
 
     post {
         success {
-            echo "✅ PIPELINE SUCCESS"
+            echo "✅ jenkins PIPELINE SUCCESS"
         }
         failure {
             echo "❌ PIPELINE FAILED"
